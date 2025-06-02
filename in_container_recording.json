@@ -1,0 +1,53 @@
+{
+    "class": "spikeinterface.extractors.neoextractors.mearec.MEArecRecordingExtractor",
+    "module": "spikeinterface",
+    "version": "0.102.3",
+    "kwargs": {
+        "all_annotations": false,
+        "use_names_as_ids": false,
+        "file_path": "/Users/eashanmonga/PycharmProjects/STATS320_FinalProject/recordings.h5"
+    },
+    "annotations": {
+        "name": null,
+        "is_filtered": true
+    },
+    "properties": {
+        "group": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "location": [
+            [
+                -8.0,
+                -8.0
+            ],
+            [
+                -8.0,
+                8.0
+            ],
+            [
+                8.0,
+                -8.0
+            ],
+            [
+                8.0,
+                8.0
+            ]
+        ],
+        "gain_to_uV": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "offset_to_uV": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "relative_paths": false
+}

@@ -1,0 +1,81 @@
+{
+    "class": "spikeinterface.extractors.neoextractors.mearec.MEArecRecordingExtractor",
+    "module": "spikeinterface",
+    "version": "0.102.3",
+    "kwargs": {
+        "all_annotations": false,
+        "use_names_as_ids": false,
+        "file_path": "/Users/eashanmonga/PycharmProjects/STATS320_FinalProject/recordings.h5"
+    },
+    "annotations": {
+        "is_filtered": true,
+        "probe_0_planar_contour": [
+            [
+                -28.0,
+                28.0
+            ],
+            [
+                -28.0,
+                -28.0
+            ],
+            [
+                0.0,
+                -108.0
+            ],
+            [
+                28.0,
+                -28.0
+            ],
+            [
+                28.0,
+                28.0
+            ]
+        ],
+        "probes_info": [
+            {
+                "model_name": "tetrode",
+                "mearec_name": "tetrode",
+                "mearec_description": "Microwire tetrode with 4 circular contacts."
+            }
+        ]
+    },
+    "properties": {
+        "group": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "location": [
+            [
+                -8.0,
+                -8.0
+            ],
+            [
+                -8.0,
+                8.0
+            ],
+            [
+                8.0,
+                -8.0
+            ],
+            [
+                8.0,
+                8.0
+            ]
+        ],
+        "gain_to_uV": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "offset_to_uV": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "relative_paths": false
+}

@@ -1,0 +1,5 @@
+{
+    "method": "l2",
+    "max_lag_ms": 0.1,
+    "support": "union"
+}

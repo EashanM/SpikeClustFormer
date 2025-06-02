@@ -1,0 +1,77 @@
+{
+    "channel_ids": [
+        "1",
+        "2",
+        "3",
+        "4"
+    ],
+    "sampling_frequency": 32000.0,
+    "num_channels": 4,
+    "num_samples": [
+        1920000
+    ],
+    "is_filtered": true,
+    "properties": {
+        "gain_to_uV": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "offset_to_uV": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "location": [
+            [
+                -8.0,
+                -8.0
+            ],
+            [
+                -8.0,
+                8.0
+            ],
+            [
+                8.0,
+                -8.0
+            ],
+            [
+                8.0,
+                8.0
+            ]
+        ],
+        "group": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "physical_unit": [
+            "uV",
+            "uV",
+            "uV",
+            "uV"
+        ],
+        "gain_to_physical_unit": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "channel_name": [
+            "ch0",
+            "ch1",
+            "ch2",
+            "ch3"
+        ],
+        "offset_to_physical_unit": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "dtype": "float32"
+}
