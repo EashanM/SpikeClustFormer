@@ -1,0 +1,9 @@
+{
+  "data_file": "/Users/eashanmonga/PycharmProjects/STATS320_FinalProject/sorting_output/myspikesorter/sorter_output/recording.dat",
+  "sampling_rate": 32000.0,
+  "num_channels": 4,
+  "detect_threshold": 5.0,
+  "freq_min": 300,
+  "freq_max": 6000,
+  "clustering_method": "kmeans"
+}

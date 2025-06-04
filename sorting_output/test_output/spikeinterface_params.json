@@ -1,0 +1,10 @@
+{
+    "sorter_name": "myspikesorter",
+    "sorter_params": {
+        "detect_threshold": 5.0,
+        "freq_min": 300,
+        "freq_max": 6000,
+        "num_workers": null,
+        "clustering_method": "kmeans"
+    }
+}

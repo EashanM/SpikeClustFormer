@@ -1,0 +1,9 @@
+README.md
+setup.py
+myspikesorter/__init__.py
+myspikesorter/core.py
+myspikesorter.egg-info/PKG-INFO
+myspikesorter.egg-info/SOURCES.txt
+myspikesorter.egg-info/dependency_links.txt
+myspikesorter.egg-info/requires.txt
+myspikesorter.egg-info/top_level.txt
